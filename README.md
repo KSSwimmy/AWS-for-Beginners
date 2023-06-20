@@ -81,3 +81,6 @@ So here in this example, the protocol for MySQL is being used and that uses a fr
 so the application server can connect to the database server using a specific protocol and port and
 
 then store information in the database.
+
+---
+
